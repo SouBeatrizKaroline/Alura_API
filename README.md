@@ -26,6 +26,8 @@
 
 - [🔗 Documentação XML](https://developer.mozilla.org/en-US/docs/Web/XML)
 
+- [🔗 Documentação BSON](https://www.mongodb.com/docs/manual/reference/bson-types/)
+
 - [🔗 Documentação sobre Versionamento Semântico 2.0.0](https://semver.org/lang/pt-BR/)
 
 - [🔗 Documentação npm](https://docs.npmjs.com/)
@@ -33,6 +35,10 @@
 - [🔗 Site do npm](https://www.npmjs.com/)
 
 - [🔗 Documentação yarn](https://yarnpkg.com/getting-started)
+
+- [🔗 Documentação Mongoose](https://mongoosejs.com/docs/guides.html)
+
+- [🔗 Documentação MongoDB Atlas](https://www.mongodb.com/docs/atlas/security/add-ip-address-to-list/)
 
 ## 🛠 Cursos
 
